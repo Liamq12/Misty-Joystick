@@ -10,7 +10,7 @@ HTTPClient Library<br/>
 # Setup
 Joystick 5V to Microcontroller 5V or 3V (3V works fine in most cases)<br/>
 Joystick GND to Microcontroller GND <br/>
-Joystick VRy and VRx pins to Microcontroller AnalogInputs <br/>
+Joystick VRy and VRx pins to Microcontroller Analog Inputs <br/>
 Joystick SW Pin not connected<br/>
 # Code Configuration
 SSID: Your network name. This needs to be the same network as your Misty 2 <br/>
