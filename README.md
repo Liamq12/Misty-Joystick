@@ -3,7 +3,7 @@ Arduino code for Misty Joystick Mini-project
 # Hardware and Dependencies
 2 Axis Joystick <br/>
 Microcontroller (This example uses the ESP32. Microcontroller must have an internet connection)<br/>
-Misty 2
+Misty 2 <br/>
 Arduino IDE<br/>
 WiFi Library<br/>
 HTTPClient Library<br/>
